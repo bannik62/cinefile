@@ -1,0 +1,74 @@
+[
+    {
+      "uuid": "1",
+      "image": "https://example.com/image1.jpg",
+      "titre": "Le Secret de la Licorne",
+      "acteurs": ["Jamie Bell", "Andy Serkis", "Daniel Craig"],
+      "date_sortie": "2011-10-26"
+    },
+    {
+      "uuid": "2",
+      "image": "https://example.com/image2.jpg",
+      "titre": "Les Aventuriers de la mer",
+      "acteurs": ["Johnny Depp", "Penélope Cruz", "Geoffrey Rush"],
+      "date_sortie": "2011-05-11"
+    },
+    {
+      "uuid": "3",
+      "image": "https://example.com/image3.jpg",
+      "titre": "Le Retour du roi",
+      "acteurs": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+      "date_sortie": "2003-12-01"
+    },
+    {
+      "uuid": "4",
+      "image": "https://example.com/image4.jpg",
+      "titre": "Matrix",
+      "acteurs": ["Keanu Reeves", "Carrie-Anne Moss", "Hugo Weaving"],
+      "date_sortie": "1999-03-31"
+    },
+    {
+      "uuid": "5",
+      "image": "https://example.com/image5.jpg",
+      "titre": "Inception",
+      "acteurs": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "date_sortie": "2010-07-14"
+    },
+    {
+      "uuid": "6",
+      "image": "https://example.com/image6.jpg",
+      "titre": "La Belle et la Bête",
+      "acteurs": ["Emma Watson", "Dan Stevens", "Luke Evans"],
+      "date_sortie": "2017-02-23"
+    },
+    {
+      "uuid": "7",
+      "image": "https://example.com/image7.jpg",
+      "titre": "Interstellar",
+      "acteurs": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "date_sortie": "2014-11-05"
+    },
+    {
+      "uuid": "8",
+      "image": "https://example.com/image8.jpg",
+      "titre": "Le Seigneur des anneaux : La Communauté de l'anneau",
+      "acteurs": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "date_sortie": "2001-12-19"
+    },
+    {
+      "uuid": "9",
+      "image": "https://example.com/image9.jpg",
+      "titre": "Jurassic Park",
+      "acteurs": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+      "date_sortie": "1993-06-09"
+    },
+    {
+      "uuid": "10",
+      "image": "https://example.com/image10.jpg",
+      "titre": "Harry Potter à l'école des sorciers",
+      "acteurs": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
+      "date_sortie": "2001-11-16"
+    }
+
+   ] 
+  
